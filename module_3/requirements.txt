@@ -20,7 +20,7 @@ bcrypt @ file:///C:/ci/bcrypt_1597918112552/work
 beautifulsoup4==4.9.1
 bitarray @ file:///C:/ci/bitarray_1598885049384/work
 bkcharts==0.2
-bleach==3.1.5
+bleach==3.3.0
 bokeh @ file:///C:/ci/bokeh_1598885504939/work
 boto==2.49.0
 Bottleneck==1.3.2
