@@ -93,7 +93,7 @@ jupyter-core==4.6.3
 jupyter-highlight-selected-word==0.2.0
 jupyter-latex-envs==1.4.4
 jupyter-nbextensions-configurator @ file:///D:/bld/jupyter_nbextensions_configurator_1594127290135/work
-jupyterlab==2.2.6
+jupyterlab==2.2.10
 jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1594164409481/work
 keyring @ file:///C:/ci/keyring_1598866734005/work
 kiwisolver==1.2.0
