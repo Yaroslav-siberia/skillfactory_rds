@@ -5,7 +5,7 @@ chardet==4.0.0
 cloudpickle==1.6.0
 cycler==0.10.0
 Cython==0.29.23
-dask==2021.6.0
+dask==2021.10.0
 decorator==4.4.2
 elasticsearch==5.5.3
 facenet-pytorch==2.5.2
